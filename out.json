@@ -1,0 +1,434 @@
+[
+  {
+    "Cargo": "Agente Administrativo I",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 4.612,76",
+    "Vencimentos Totais": "R$ 11.629,78",
+    "Descontos": "R$ 2.891,61",
+    "L\u00edquido": "R$ 8.738,17"
+  },
+  {
+    "Cargo": "Agente Administrativo II",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 5.405,76",
+    "Vencimentos Totais": "R$ 10.731,31",
+    "Descontos": "R$ 3.594,21",
+    "L\u00edquido": "R$ 7.137,10"
+  },
+  {
+    "Cargo": "Agente Comunit\u00e1rio da Sa\u00fade",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 3.246,90",
+    "Vencimentos Totais": "R$ 4.661,75",
+    "Descontos": "R$ 1.450,90",
+    "L\u00edquido": "R$ 3.210,85"
+  },
+  {
+    "Cargo": "Agente de Educa\u00e7\u00e3o Infantil",
+    "Servidores": 8.0,
+    "Sal\u00e1rio Base": "R$ 12.987,60",
+    "Vencimentos Totais": "R$ 18.388,15",
+    "Descontos": "R$ 4.711,51",
+    "L\u00edquido": "R$ 13.676,64"
+  },
+  {
+    "Cargo": "Agente de M. e R. II- Mecanico",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 5.982,98",
+    "Vencimentos Totais": "R$ 12.537,95",
+    "Descontos": "R$ 2.148,94",
+    "L\u00edquido": "R$ 10.389,01"
+  },
+  {
+    "Cargo": "Agente de M. e Reparos I",
+    "Servidores": 12.0,
+    "Sal\u00e1rio Base": "R$ 19.481,40",
+    "Vencimentos Totais": "R$ 34.620,23",
+    "Descontos": "R$ 8.993,46",
+    "L\u00edquido": "R$ 25.626,77"
+  },
+  {
+    "Cargo": "Agente de Servi\u00e7os Gerais",
+    "Servidores": 12.0,
+    "Sal\u00e1rio Base": "R$ 19.481,40",
+    "Vencimentos Totais": "R$ 31.644,75",
+    "Descontos": "R$ 10.650,76",
+    "L\u00edquido": "R$ 20.993,99"
+  },
+  {
+    "Cargo": "Agente Edu.Infantil - CONTRATO",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 1.623,45",
+    "Vencimentos Totais": "R$ 2.155,91",
+    "Descontos": "R$ 182,22",
+    "L\u00edquido": "R$ 1.973,69"
+  },
+  {
+    "Cargo": "Agentes de M. e R. II Pedreiro",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 5.982,98",
+    "Vencimentos Totais": "R$ 8.319,23",
+    "Descontos": "R$ 3.225,16",
+    "L\u00edquido": "R$ 5.094,07"
+  },
+  {
+    "Cargo": "Agentes de M. e Reparos I",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 1.623,45",
+    "Vencimentos Totais": "R$ 2.495,14",
+    "Descontos": "R$ 266,96",
+    "L\u00edquido": "R$ 2.228,18"
+  },
+  {
+    "Cargo": "Agentes M. e R. II Eletrecista",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 2.991,49",
+    "Vencimentos Totais": "R$ 3.995,78",
+    "Descontos": "R$ 828,67",
+    "L\u00edquido": "R$ 3.167,11"
+  },
+  {
+    "Cargo": "Assessor Juridico",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.934,49",
+    "Vencimentos Totais": "R$ 5.304,61",
+    "Descontos": "R$ 919,80",
+    "L\u00edquido": "R$ 4.384,81"
+  },
+  {
+    "Cargo": "Auxiliar de Odont\u00eblogo",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 2.160,90",
+    "Vencimentos Totais": "R$ 6.338,14",
+    "Descontos": "R$ 1.704,63",
+    "L\u00edquido": "R$ 4.633,51"
+  },
+  {
+    "Cargo": "Chefe de Gabinete",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.134,79",
+    "Vencimentos Totais": "R$ 4.504,91",
+    "Descontos": "R$ 654,23",
+    "L\u00edquido": "R$ 3.850,68"
+  },
+  {
+    "Cargo": "Chefe S. F. e Distribui\u00e7\u00e3o",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 2.643,43",
+    "Vencimentos Totais": "R$ 3.013,55",
+    "Descontos": "R$ 301,94",
+    "L\u00edquido": "R$ 2.711,61"
+  },
+  {
+    "Cargo": "Cirurgi\u00e3o Dentista 20 Hs",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 8.000,86",
+    "Vencimentos Totais": "R$ 9.390,46",
+    "Descontos": "R$ 1.561,29",
+    "L\u00edquido": "R$ 7.829,17"
+  },
+  {
+    "Cargo": "Conselheiro Tutelar",
+    "Servidores": 5.0,
+    "Sal\u00e1rio Base": "R$ 7.012,55",
+    "Vencimentos Totais": "R$ 8.960,53",
+    "Descontos": "R$ 1.216,72",
+    "L\u00edquido": "R$ 7.743,81"
+  },
+  {
+    "Cargo": "Contador(a)",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.612,83",
+    "Vencimentos Totais": "R$ 7.127,07",
+    "Descontos": "R$ 1.515,93",
+    "L\u00edquido": "R$ 5.611,14"
+  },
+  {
+    "Cargo": "Diretor D. C. da UBS Central",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.934,49",
+    "Vencimentos Totais": "R$ 5.304,61",
+    "Descontos": "R$ 919,80",
+    "L\u00edquido": "R$ 4.384,81"
+  },
+  {
+    "Cargo": "Diretor D. E. e Projetos",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.134,79",
+    "Vencimentos Totais": "R$ 4.504,91",
+    "Descontos": "R$ 655,45",
+    "L\u00edquido": "R$ 3.849,46"
+  },
+  {
+    "Cargo": "Diretor de C. e A. Social",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 2.160,90",
+    "Vencimentos Totais": "R$ 7.480,40",
+    "Descontos": "R$ 2.076,07",
+    "L\u00edquido": "R$ 5.404,33"
+  },
+  {
+    "Cargo": "Diretor de Escola",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.134,79",
+    "Vencimentos Totais": "R$ 4.504,91",
+    "Descontos": "R$ 655,45",
+    "L\u00edquido": "R$ 3.849,46"
+  },
+  {
+    "Cargo": "Diretor de Obras P\u00fablicas",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.134,79",
+    "Vencimentos Totais": "R$ 4.504,91",
+    "Descontos": "R$ 627,01",
+    "L\u00edquido": "R$ 3.877,90"
+  },
+  {
+    "Cargo": "Diretor do D. A. e T. Escolar",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 3.264,66",
+    "Vencimentos Totais": "R$ 3.634,78",
+    "Descontos": "R$ 427,78",
+    "L\u00edquido": "R$ 3.207,00"
+  },
+  {
+    "Cargo": "Diretor do D. de M. Ambiente",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.934,49",
+    "Vencimentos Totais": "R$ 5.304,61",
+    "Descontos": "R$ 1.605,82",
+    "L\u00edquido": "R$ 3.698,79"
+  },
+  {
+    "Cargo": "Diretor do D. I. e M. da Frota",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 3.264,66",
+    "Vencimentos Totais": "R$ 3.634,78",
+    "Descontos": "R$ 421,69",
+    "L\u00edquido": "R$ 3.213,09"
+  },
+  {
+    "Cargo": "Diretora D. C. P. S. Familia",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 3.264,66",
+    "Vencimentos Totais": "R$ 3.634,78",
+    "Descontos": "R$ 389,05",
+    "L\u00edquido": "R$ 3.245,73"
+  },
+  {
+    "Cargo": "Enfermeiro",
+    "Servidores": 4.0,
+    "Sal\u00e1rio Base": "R$ 18.451,32",
+    "Vencimentos Totais": "R$ 27.223,31",
+    "Descontos": "R$ 7.239,84",
+    "L\u00edquido": "R$ 19.983,47"
+  },
+  {
+    "Cargo": "Engenheiro Civil",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.612,83",
+    "Vencimentos Totais": "R$ 8.563,04",
+    "Descontos": "R$ 4.445,97",
+    "L\u00edquido": "R$ 4.117,07"
+  },
+  {
+    "Cargo": "Fiscal de Obras e Postura",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 2.991,49",
+    "Vencimentos Totais": "R$ 4.483,70",
+    "Descontos": "R$ 718,03",
+    "L\u00edquido": "R$ 3.765,67"
+  },
+  {
+    "Cargo": "Fiscal S. e de Meio Ambiente",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 1.495,74",
+    "Vencimentos Totais": "R$ 4.821,77",
+    "Descontos": "R$ 964,76",
+    "L\u00edquido": "R$ 3.857,01"
+  },
+  {
+    "Cargo": "Fisioterapeuta Estatutario",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 8.000,86",
+    "Vencimentos Totais": "R$ 9.812,66",
+    "Descontos": "R$ 2.120,83",
+    "L\u00edquido": "R$ 7.691,83"
+  },
+  {
+    "Cargo": "Inativo",
+    "Servidores": 45.0,
+    "Sal\u00e1rio Base": "R$ 208.735,30",
+    "Vencimentos Totais": "R$ 206.691,72",
+    "Descontos": "R$ 33.375,48",
+    "L\u00edquido": "R$ 173.316,24"
+  },
+  {
+    "Cargo": "Medico C. Geral 20 H -CONTRATO",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 8.406,24",
+    "Vencimentos Totais": "R$ 23.856,28",
+    "Descontos": "R$ 6.229,58",
+    "L\u00edquido": "R$ 17.626,70"
+  },
+  {
+    "Cargo": "M\u00e9dico Clinico Geral - 40 h",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 12.776,83",
+    "Vencimentos Totais": "R$ 33.837,58",
+    "Descontos": "R$ 10.688,19",
+    "L\u00edquido": "R$ 23.149,39"
+  },
+  {
+    "Cargo": "Medico Clinico Geral 20 H",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 16.812,48",
+    "Vencimentos Totais": "R$ 54.195,81",
+    "Descontos": "R$ 19.515,41",
+    "L\u00edquido": "R$ 34.680,40"
+  },
+  {
+    "Cargo": "Medico Veterinario",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 8.406,24",
+    "Vencimentos Totais": "R$ 13.718,41",
+    "Descontos": "R$ 4.150,26",
+    "L\u00edquido": "R$ 9.568,15"
+  },
+  {
+    "Cargo": "Motorista",
+    "Servidores": 11.0,
+    "Sal\u00e1rio Base": "R$ 25.370,18",
+    "Vencimentos Totais": "R$ 64.460,95",
+    "Descontos": "R$ 22.660,63",
+    "L\u00edquido": "R$ 41.800,32"
+  },
+  {
+    "Cargo": "Nutricionista",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.000,43",
+    "Vencimentos Totais": "R$ 5.421,61",
+    "Descontos": "R$ 2.318,68",
+    "L\u00edquido": "R$ 3.102,93"
+  },
+  {
+    "Cargo": "Operador de Blaster",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 2.674,99",
+    "Vencimentos Totais": "R$ 7.189,76",
+    "Descontos": "R$ 2.224,95",
+    "L\u00edquido": "R$ 4.964,81"
+  },
+  {
+    "Cargo": "Operador de M\u00e1quinas",
+    "Servidores": 11.0,
+    "Sal\u00e1rio Base": "R$ 32.906,39",
+    "Vencimentos Totais": "R$ 78.842,98",
+    "Descontos": "R$ 25.512,52",
+    "L\u00edquido": "R$ 53.330,46"
+  },
+  {
+    "Cargo": "Pensionista",
+    "Servidores": 12.0,
+    "Sal\u00e1rio Base": "R$ 54.989,52",
+    "Vencimentos Totais": "R$ 54.989,52",
+    "Descontos": "R$ 10.380,93",
+    "L\u00edquido": "R$ 44.608,59"
+  },
+  {
+    "Cargo": "Prefeito",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 14.700,50",
+    "Vencimentos Totais": "R$ 15.161,39",
+    "Descontos": "R$ 3.911,37",
+    "L\u00edquido": "R$ 11.250,02"
+  },
+  {
+    "Cargo": "Professor- CONTRATO TEMPOR\u00c1RIO",
+    "Servidores": 10.0,
+    "Sal\u00e1rio Base": "R$ 25.690,25",
+    "Vencimentos Totais": "R$ 37.455,51",
+    "Descontos": "R$ 8.226,44",
+    "L\u00edquido": "R$ 29.229,07"
+  },
+  {
+    "Cargo": "Professor II (Nivel Superior)",
+    "Servidores": 4.0,
+    "Sal\u00e1rio Base": "R$ 12.012,40",
+    "Vencimentos Totais": "R$ 20.026,97",
+    "Descontos": "R$ 3.798,87",
+    "L\u00edquido": "R$ 16.228,10"
+  },
+  {
+    "Cargo": "Professor II P\u00f3s-graduado",
+    "Servidores": 20.0,
+    "Sal\u00e1rio Base": "R$ 66.804,60",
+    "Vencimentos Totais": "R$ 94.146,92",
+    "Descontos": "R$ 28.524,93",
+    "L\u00edquido": "R$ 65.621,99"
+  },
+  {
+    "Cargo": "Professor N\u00edvel M\u00e9dio",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 3.340,23",
+    "Vencimentos Totais": "R$ 7.262,76",
+    "Descontos": "R$ 2.268,88",
+    "L\u00edquido": "R$ 4.993,88"
+  },
+  {
+    "Cargo": "Psicologo",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.000,43",
+    "Vencimentos Totais": "R$ 6.147,32",
+    "Descontos": "R$ 1.156,29",
+    "L\u00edquido": "R$ 4.991,03"
+  },
+  {
+    "Cargo": "Secret\u00e1rio",
+    "Servidores": 2.0,
+    "Sal\u00e1rio Base": "R$ 12.269,48",
+    "Vencimentos Totais": "R$ 13.009,72",
+    "Descontos": "R$ 2.359,50",
+    "L\u00edquido": "R$ 10.650,22"
+  },
+  {
+    "Cargo": "T\u00e9cnico em Enfermagem",
+    "Servidores": 6.0,
+    "Sal\u00e1rio Base": "R$ 16.217,28",
+    "Vencimentos Totais": "R$ 30.670,88",
+    "Descontos": "R$ 8.616,56",
+    "L\u00edquido": "R$ 22.054,32"
+  },
+  {
+    "Cargo": "Telefonista",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 1.709,40",
+    "Vencimentos Totais": "R$ 4.594,88",
+    "Descontos": "R$ 821,33",
+    "L\u00edquido": "R$ 3.773,55"
+  },
+  {
+    "Cargo": "Tesoureiro",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 4.000,43",
+    "Vencimentos Totais": "R$ 6.912,09",
+    "Descontos": "R$ 1.480,97",
+    "L\u00edquido": "R$ 5.431,12"
+  },
+  {
+    "Cargo": "Vice Prefeito Em Exercicio",
+    "Servidores": 1.0,
+    "Sal\u00e1rio Base": "R$ 6.134,74",
+    "Vencimentos Totais": "R$ 8.354,58",
+    "Descontos": "R$ 1.841,75",
+    "L\u00edquido": "R$ 6.512,83"
+  },
+  {
+    "Cargo": "Totais",
+    "Servidores": NaN,
+    "Sal\u00e1rio Base": "R$ 728.658,83",
+    "Vencimentos Totais": "R$ 1.070.180,06",
+    "Descontos": "R$ 270.150,01",
+    "L\u00edquido": "R$ 800.030,05"
+  }
+]
