@@ -1,12 +1,22 @@
+from typing import Dict, List, Type
 import pandas as pd
+from pandas import DataFrame
 import json
 
 class Exportador():
 	def __init__(self):
 		pass
 
-	def ExportarComoJson(self, dados: pd.DataFrame):
-		dic = dados.to_dict('records')
+	def ExportarComoJson(self, data:DataFrame | list[DataFrame]):
+		dic = dict()
+
+		if isinstance(data, DataFrame):
+			print('entrou')
+			dic = data.to_dict('records')
+		else:
+			for fragmento in data:
+				dic = dic | fragmento.to_dict()
+			
 		string = json.dumps(dic, ensure_ascii=False)
 		f = open("../out.json", "w")
 		f.write(string)
