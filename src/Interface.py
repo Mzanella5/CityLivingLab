@@ -1,4 +1,5 @@
 import PySimpleGUIQt as sg
+from Gestor import Gestor
 from Services.Exportador import Exportador
 
 from Services.Importador import Importador
@@ -19,12 +20,10 @@ class Listbox(sg.Listbox):
         # data.extend(items)
         # print(data)
         data = e.mimeData().text().strip().split('\n')
-        data[0] = data[0].replace('file:///', '')
+        data[0] = data[0].replace('file://', '')
         window['LISTBOX'].update(data)
         window.refresh()
-        dados = Importador.ImportarComoCsv(self, path="C:\Users\mz_ma\Documents\Projetos\cc\CityLivingLab\pessoal.csv")
-        Exportador.ExportarComoJson(self, dados)
-        print("Feito!")
+        Gestor.LerArquivo(data[0])
 
     def enable_drop(self):
         # Called after window finalized
@@ -42,6 +41,7 @@ while True:
     event, values = window.read()
     if event == sg.WINDOW_CLOSED:
         break
+
 
 
 window.close()

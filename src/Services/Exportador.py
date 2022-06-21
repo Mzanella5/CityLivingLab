@@ -7,7 +7,7 @@ class Exportador():
 	def __init__(self):
 		pass
 
-	def ExportarComoJson(self, data:DataFrame | list[DataFrame]):
+	def ExportarComoJson(data:DataFrame | list[DataFrame]):
 		dic = dict()
 
 		if isinstance(data, DataFrame):
@@ -21,3 +21,7 @@ class Exportador():
 		f = open("../out.json", "w")
 		f.write(string)
 		f.close()
+
+	def ExportarComoCSV(data:DataFrame | list[DataFrame]):
+		data.to_csv('out.csv')
+
