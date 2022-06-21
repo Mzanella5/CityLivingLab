@@ -11,3 +11,6 @@ class Importador():
 
 	def ImportarComoPdf(path:str):
 		return tabula.read_pdf(input_path=path, pages='all')
+
+	def ImportarComoJSON(path:str):
+		return pd.read_json(path)

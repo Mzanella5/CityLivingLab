@@ -1,3 +1,4 @@
+import platform
 import PySimpleGUIQt as sg
 from Gestor import Gestor
 from Services.Exportador import Exportador
@@ -20,7 +21,10 @@ class Listbox(sg.Listbox):
         # data.extend(items)
         # print(data)
         data = e.mimeData().text().strip().split('\n')
-        data[0] = data[0].replace('file://', '')
+        if platform.system() == "Windows":
+            data[0] = data[0].replace('file:///', '')
+        else:
+            data[0] = data[0].replace('file://', '')
         window['LISTBOX'].update(data)
         window.refresh()
         Gestor.LerArquivo(data[0])

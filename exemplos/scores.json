@@ -1,0 +1,191 @@
+[
+  {
+    "idEvaluated": 13,
+    "totalEvaluations": 44,
+    "score": 5.0,
+    "name": "Gabriel",
+    "description": "Guia de rafting",
+    "type": "Rafting",
+    "mini": "WhatsApp Image 2021-02-06 at 15.34.14.jpeg"
+  },
+  {
+    "idEvaluated": 10,
+    "totalEvaluations": 228,
+    "score": 4.995531724754245,
+    "name": "Franciele",
+    "description": "Monitor do parque",
+    "type": "Monitor(a)",
+    "mini": "ins7.jpeg"
+  },
+  {
+    "idEvaluated": 7,
+    "totalEvaluations": 171,
+    "score": 4.971214997626958,
+    "name": "Felipe",
+    "description": "Monitor do parque",
+    "type": "Monitor(a)",
+    "mini": "ins4.jpeg"
+  },
+  {
+    "idEvaluated": 32,
+    "totalEvaluations": 185,
+    "score": 4.9683584264205924,
+    "name": "Adriano",
+    "description": "Monitor do parque ",
+    "type": "Monitor(a)",
+    "mini": "2765CFCD-3104-4F31-B54C-B112BA70F208.jpeg"
+  },
+  {
+    "idEvaluated": 18,
+    "totalEvaluations": 31,
+    "score": 4.965960099750624,
+    "name": "Willian",
+    "description": "Guia de rafting",
+    "type": "Rafting",
+    "mini": "WhatsApp Image 2021-02-06 at 15.34.00.jpeg"
+  },
+  {
+    "idEvaluated": 23,
+    "totalEvaluations": 166,
+    "score": 4.962975609756097,
+    "name": "Liniker",
+    "description": "Monitor do parque",
+    "type": "Monitor(a)",
+    "mini": "WhatsApp Image 2021-02-06 at 15.42.30.jpeg"
+  },
+  {
+    "idEvaluated": 6,
+    "totalEvaluations": 152,
+    "score": 4.954970178926441,
+    "name": "Ellen",
+    "description": "Monitor do parque",
+    "type": "Monitor(a)",
+    "mini": "ins3.jpeg"
+  },
+  {
+    "idEvaluated": 28,
+    "totalEvaluations": 145,
+    "score": 4.953401700850425,
+    "name": "Istefano",
+    "description": "Monitor do parque ",
+    "type": "Monitor(a)",
+    "mini": "iistefano.jpeg"
+  },
+  {
+    "idEvaluated": 20,
+    "totalEvaluations": 148,
+    "score": 4.952905811623246,
+    "name": "Lucas",
+    "description": "Monitor do parque",
+    "type": "Monitor(a)",
+    "mini": "WhatsApp Image 2021-01-29 at 18.02.00 (1).jpeg"
+  },
+  {
+    "idEvaluated": 11,
+    "totalEvaluations": 137,
+    "score": 4.949394856278366,
+    "name": "Lucas",
+    "description": "Monitor",
+    "type": "Monitor(a)",
+    "mini": "ins8.jpeg"
+  },
+  {
+    "idEvaluated": 22,
+    "totalEvaluations": 146,
+    "score": 4.9469836400817995,
+    "name": "Gabriel",
+    "description": "Monitor do parque",
+    "type": "Monitor(a)",
+    "mini": "WhatsApp Image 2021-02-06 at 15.38.16.jpeg"
+  },
+  {
+    "idEvaluated": 34,
+    "totalEvaluations": 127,
+    "score": 4.942335206949412,
+    "name": "João",
+    "description": "Monitor do parque ",
+    "type": "Monitor(a)",
+    "mini": "IMG-20211021-WA0010.jpg"
+  },
+  {
+    "idEvaluated": 15,
+    "totalEvaluations": 23,
+    "score": 4.941511936339523,
+    "name": "Evandro",
+    "description": "Guia de rafting",
+    "type": "Rafting",
+    "mini": "WhatsApp Image 2021-02-06 at 15.36.49.jpeg"
+  },
+  {
+    "idEvaluated": 14,
+    "totalEvaluations": 23,
+    "score": 4.941511936339523,
+    "name": "vitor",
+    "description": "Guia de rafting",
+    "type": "Rafting",
+    "mini": "zequinha.jpeg"
+  },
+  {
+    "idEvaluated": 27,
+    "totalEvaluations": 126,
+    "score": 4.939155370177268,
+    "name": "Guilherme",
+    "description": "Monitor do parque ",
+    "type": "Monitor(a)",
+    "mini": "guilherme.jpg"
+  },
+  {
+    "idEvaluated": 5,
+    "totalEvaluations": 112,
+    "score": 4.930696202531646,
+    "name": "Felipe",
+    "description": "Monitor do parque",
+    "type": "Monitor(a)",
+    "mini": "ins2.jpeg"
+  },
+  {
+    "idEvaluated": 33,
+    "totalEvaluations": 103,
+    "score": 4.924798061389337,
+    "name": "Fernando",
+    "description": "Monitor do parque ",
+    "type": "Monitor(a)",
+    "mini": "IMG-20220123-WA0007.jpg"
+  },
+  {
+    "idEvaluated": 35,
+    "totalEvaluations": 78,
+    "score": 4.9113384955752215,
+    "name": "Matheus",
+    "description": "Monitor e Guia de Rafting ",
+    "type": "Monitor(a)",
+    "mini": "IMG-20220123-WA0006.jpg"
+  },
+  {
+    "idEvaluated": 21,
+    "totalEvaluations": 8,
+    "score": 4.886144578313253,
+    "name": "Silvio",
+    "description": "Guia de rafting",
+    "type": "Rafting",
+    "mini": "WhatsApp Image 2021-02-06 at 15.36.08.jpeg"
+  },
+  {
+    "idEvaluated": 9,
+    "totalEvaluations": 6,
+    "score": 4.87760736196319,
+    "name": "Odair",
+    "description": "Monitor do parque e Guia de rafting",
+    "type": "Rafting",
+    "mini": "WhatsApp Image 2021-02-06 at 15.35.27.jpeg"
+  },
+  {
+    "idEvaluated": 19,
+    "totalEvaluations": 1,
+    "score": 4.854823151125402,
+    "name": "Jones",
+    "description": "Guia de rafting",
+    "type": "Rafting",
+    "mini": "WhatsApp Image 2021-01-29 at 17.56.45.jpeg"
+  }
+]
