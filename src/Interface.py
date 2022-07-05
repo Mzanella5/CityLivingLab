@@ -1,9 +1,6 @@
 import platform
 import PySimpleGUIQt as sg
-from Gestor import Gestor
-from Services.Exportador import Exportador
-
-from Services.Importador import Importador
+from Services.DataManager import DataManager
 
 class Listbox(sg.Listbox):
 
@@ -27,7 +24,8 @@ class Listbox(sg.Listbox):
             data[0] = data[0].replace('file://', '')
         window['LISTBOX'].update(data)
         window.refresh()
-        Gestor.LerArquivo(data[0])
+        dataManager = DataManager()
+        dataManager.ReadFile(data[0])
 
     def enable_drop(self):
         # Called after window finalized

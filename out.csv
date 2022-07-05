@@ -1,22 +1,47 @@
-,idEvaluated,totalEvaluations,score,name,description,type,mini
-0,13,44,5.0,Gabriel,Guia de rafting,Rafting,WhatsApp Image 2021-02-06 at 15.34.14.jpeg
-1,10,228,4.995531724754245,Franciele,Monitor do parque,Monitor(a),ins7.jpeg
-2,7,171,4.971214997626958,Felipe,Monitor do parque,Monitor(a),ins4.jpeg
-3,32,185,4.9683584264205924,Adriano,Monitor do parque ,Monitor(a),2765CFCD-3104-4F31-B54C-B112BA70F208.jpeg
-4,18,31,4.965960099750624,Willian,Guia de rafting,Rafting,WhatsApp Image 2021-02-06 at 15.34.00.jpeg
-5,23,166,4.962975609756097,Liniker,Monitor do parque,Monitor(a),WhatsApp Image 2021-02-06 at 15.42.30.jpeg
-6,6,152,4.954970178926441,Ellen,Monitor do parque,Monitor(a),ins3.jpeg
-7,28,145,4.953401700850425,Istefano,Monitor do parque ,Monitor(a),iistefano.jpeg
-8,20,148,4.952905811623246,Lucas,Monitor do parque,Monitor(a),WhatsApp Image 2021-01-29 at 18.02.00 (1).jpeg
-9,11,137,4.949394856278366,Lucas,Monitor,Monitor(a),ins8.jpeg
-10,22,146,4.946983640081799,Gabriel,Monitor do parque,Monitor(a),WhatsApp Image 2021-02-06 at 15.38.16.jpeg
-11,34,127,4.942335206949412,João,Monitor do parque ,Monitor(a),IMG-20211021-WA0010.jpg
-12,15,23,4.9415119363395235,Evandro,Guia de rafting,Rafting,WhatsApp Image 2021-02-06 at 15.36.49.jpeg
-13,14,23,4.9415119363395235,vitor,Guia de rafting,Rafting,zequinha.jpeg
-14,27,126,4.939155370177268,Guilherme,Monitor do parque ,Monitor(a),guilherme.jpg
-15,5,112,4.930696202531646,Felipe,Monitor do parque,Monitor(a),ins2.jpeg
-16,33,103,4.924798061389337,Fernando,Monitor do parque ,Monitor(a),IMG-20220123-WA0007.jpg
-17,35,78,4.911338495575221,Matheus,Monitor e Guia de Rafting ,Monitor(a),IMG-20220123-WA0006.jpg
-18,21,8,4.886144578313253,Silvio,Guia de rafting,Rafting,WhatsApp Image 2021-02-06 at 15.36.08.jpeg
-19,9,6,4.87760736196319,Odair,Monitor do parque e Guia de rafting,Rafting,WhatsApp Image 2021-02-06 at 15.35.27.jpeg
-20,19,1,4.854823151125402,Jones,Guia de rafting,Rafting,WhatsApp Image 2021-01-29 at 17.56.45.jpeg
+,Município,Dimensão,Indicador,Unidade,Valor,Valor Corede Serra,Valor Brasil,Valor Brasil 10%mel..
+0,Antônio Prado,Humano coletivo,Despesas mun.. ,R$ / Habitante,"39,66","58,80","48,74","215,60"
+1,Antônio Prado,Humano coletivo,Despesas mun.. ,R$ / Habitante,"4,38","12,50","9,51","10,46"
+2,Antônio Prado,Humano coletivo,Despesas mun.. ,R$ / Habitante,"0,00","105,99","52,47","163,03"
+3,Antônio Prado,Humano coletivo,Despesas mun.. ,R$ / Habitante,"1.099,31","1.093,06","761,77","1.606,26"
+4,Antônio Prado,Humano coletivo,IFDM educação ,Índice de 0 a 1,"0,82","0,85","0,79","0,91"
+5,Antônio Prado,Humano coletivo,Imunizações B.. ,%,"66,67","0,72","0,54","0,93"
+6,Antônio Prado,Humano coletivo,Mortes por doe.. ,Mortes doenças alto im..,"24,51","23,81","25,67","15,79"
+7,Antônio Prado,Humano coletivo,Óbitos por cau.. ,Óbitos / mil habitantes,"3,22","3,43","3,60","2,32"
+8,Antônio Prado,Humano coletivo,Óbitos por cau.. ,Óbitos / mil habitantes,"0,08","0,27","0,25","0,10"
+9,Antônio Prado,Humano coletivo,Despesas mun.. ,R$ / Habitante,"0,86","28,46","11,74","48,98"
+10,Antônio Prado,Humano coletivo,Despesas mun..,R$ / Habitante,"5,91","4,25","4,30","8,65"
+11,Antônio Prado,Humano individual,Despesas mun..,R$ / Habitante,"16,82","17,50","5,26","19,11"
+12,Antônio Prado,Humano individual,IDEB Rede púb.. ,Nota padronizada,"5,80","6,33","5,52","6,90"
+13,Antônio Prado,Humano individual,IFDM saúde ,Índice de 0 a 1,"0,87","0,94","0,81","0,91"
+14,Antônio Prado,Humano individual,Matriculas edu.. ,%,"0,18","0,18","0,00","0,19"
+15,Antônio Prado,Humano individual,Mortalidade inf.. ,Óbitos infantis / 100 Na..,"0,79","1,00","1,22","0,69"
+16,Antônio Prado,Humano individual,Percentual de .. ,%,"0,98","0,02","0,03","0,01"
+17,Antônio Prado,Humano individual,Despesas mun.. ,R$ / Habitante,"26,89","25,67","20,02","57,66"
+18,Antônio Prado,Identidade,Exportação ,US$ / Habitante,"1.401,36","1.253,91","987,13","4.317,92"
+19,Antônio Prado,Identidade,IFDM ,Índice de 0 a 1,"0,79","0,81","0,72","0,79"
+20,Bento Gonçalves,Humano coletivo,Despesas mun.. ,R$ / Habitante,"10,80","105,99","52,47","163,03"
+21,Bento Gonçalves,Humano coletivo,Despesas mun.. ,R$ / Habitante,"1.158,49","1.093,06","761,77","1.606,26"
+22,Bento Gonçalves,Humano coletivo,IFDM educação ,Índice de 0 a 1,"0,88","0,85","0,79","0,91"
+23,Bento Gonçalves,Humano individual,IDEB Rede púb.. ,Nota padronizada,"6,50","6,33","5,52","6,90"
+24,Bento Gonçalves,Humano individual,IFDM saúde ,Índice de 0 a 1,"0,96","0,94","0,81","0,91"
+25,Bento Gonçalves,Humano individual,Matriculas edu.. ,%,"0,19","0,18","0,00","0,19"
+26,Bento Gonçalves,Humano individual,Mortalidade inf.. ,Óbitos infantis / 100 Na..,"0,71","1,00","1,22","0,69"
+27,Bento Gonçalves,Humano individual,Percentual de .. ,%,"1,17","0,02","0,03","0,01"
+28,Boa Vista do Sul,Instr. tangível,Despesas mun.. ,R$ / Habitante,"41,90","70,96","25,49","85,52"
+29,Boa Vista do Sul,Instr. tangível,Despesas mun.. ,R$ / Habitante,"16,32","33,54","29,23","38,08"
+30,Boa Vista do Sul,Instr. tangível,Despesas mun.. ,R$ / Habitante,"1.268,98","116,62","74,05","459,11"
+31,Boa Vista do Sul,Instr. tangível,Índice de aten..,%,"1,00","0,92","0,80","1,00"
+32,Boa Vista do Sul,Instr. tangível,Índice de aten..,%,,"0,54","0,51","0,98"
+33,Boa Vista do Sul,Instr. tangível,Índice de colet..,%,,"0,93","0,74","1,00"
+34,Boa Vista do Sul,Instr. tangível,Número de leit.. ,Leitos / mil Habitantes,,"2,32","2,05","4,27"
+35,Boa Vista do Sul,Inteligência,Densidade de .. ,Acessos / 100 Domicílios,"42,32","51,28","25,68","58,55"
+36,Boa Vista do Sul,Inteligência,Densidade de .. ,Serviço telefônico fixo /..,"29,86","36,12","13,87","32,08"
+37,Carlos Barbosa,Inteligência,Despesas mun.. ,R$ / Habitante,"0,00","105,99","52,47","163,03"
+38,Carlos Barbosa,Inteligência,Despesas mun.. ,R$ / Habitante,"874,29","1.093,06","761,77","1.606,26"
+39,Carlos Barbosa,Inteligência,IFDM educação, Índice de 0 a 1,"0,91","0,85","0,79","0,91"
+40,Carlos Barbosa,Inteligência,Imunizações B.. ,%,"58,82","0,72","0,54","0,93"
+41,Carlos Barbosa,Inteligência,Mortes por doe.. ,Mortes doenças alto im..,"23,66","23,81","25,67","15,79"
+42,Carlos Barbosa,Inteligência,Óbitos por cau.. ,Óbitos / mil habitantes,"2,92","3,43","3,60","2,32"
+43,Carlos Barbosa,Inteligência,Óbitos por cau.. ,Óbitos / mil habitantes,"0,13","0,27","0,25","0,10"
+44,Carlos Barbosa,Humano individual,Despesas mun.., R$ / Habitante,"22,98","28,46","11,74","48,98"
+45,Carlos Barbosa,Humano individual,Despesas mun.. ,R$ / Habitante,"0,00","4,25","4,30","8,65"

@@ -3,11 +3,11 @@ import pandas as pd
 from pandas import DataFrame
 import json
 
-class Exportador():
+class Exporter():
 	def __init__(self):
 		pass
 
-	def ExportarComoJson(data:DataFrame | list[DataFrame]):
+	def ExportAsJson(data:DataFrame | list[DataFrame]):
 		dic = dict()
 
 		if isinstance(data, DataFrame):
@@ -22,6 +22,6 @@ class Exportador():
 		f.write(string)
 		f.close()
 
-	def ExportarComoCSV(data:DataFrame | list[DataFrame]):
+	def ExportAsCSV(data:DataFrame | list[DataFrame]):
 		data.to_csv('out.csv')
 
